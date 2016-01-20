@@ -1,0 +1,16 @@
+{
+	"name": "lessphp",
+	"main": "lessc.inc.php",
+	"homepage": "https://github.com/krisatkinson/lessphp",
+	"version": "0.5.0",
+	"_release": "0.5.0",
+	"_resolution": {
+		"type": "version",
+		"tag": "v0.5.0",
+		"commit": "0f5a7f5545d2bcf4e9fad9a228c8ad89cc9aa283"
+	},
+	"_source": "git@github.com:krisatkinson/lessphp.git",
+	"_target": "~0.5.0",
+	"_originalSource": "krisatkinson/lessphp",
+	"_direct": true
+}
